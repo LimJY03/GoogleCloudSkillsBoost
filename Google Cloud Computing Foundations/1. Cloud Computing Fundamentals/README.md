@@ -6,7 +6,7 @@
 
 This course consists of first 3 out of the 10 modules in the series:
 
-1. [X] [What's the Cloud?]()
+1. [X] [What's the Cloud?](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/1.%20Cloud%20Computing%20Fundamentals/Module_01.md)
 2. [X] [Start with a Solid Platform]()
 3. [X] [Use GCP to Build Your Apps]()
 4. [ ] Where Do I Store This Stuff?
