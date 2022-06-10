@@ -18,7 +18,7 @@ There are a total of 10 modules in this series:
 
 1. [What's the Cloud?](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/1.%20Cloud%20Computing%20Fundamentals/Module_01.md)
 2. [Start with a Solid Platform](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/1.%20Cloud%20Computing%20Fundamentals/Module_02.md)
-3. [Use GCP to Build Your Apps]()
+3. [Use GCP to Build Your Apps](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/1.%20Cloud%20Computing%20Fundamentals/Module_03.md)
 4. [Where Do I Store This Stuff?]()
 5. [Rest API]()
 6. [Cloud Security]()
