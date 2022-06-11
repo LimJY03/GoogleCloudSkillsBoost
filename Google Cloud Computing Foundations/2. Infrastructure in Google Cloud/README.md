@@ -4,7 +4,7 @@
 
 ## Course Introduction
 
-This course consists of first 3 out of the 10 modules in the series:
+This course consists of subsequent 3 modules in the series:
 
 1. [ ] What's the Cloud?
 2. [ ] Start with a Solid Platform
