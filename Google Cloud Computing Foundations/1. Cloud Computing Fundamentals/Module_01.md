@@ -5,7 +5,7 @@ In this course, we will be able to discuss what the cloud is and why it's a tech
 ## Learning Objectives
 
 * Discuss Cloud Computing
-* Compare and contrast physical, virtual, and cloud architectures.
+* Compare and contrast physical, virtual, and cloud architectures
 * Define Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS)
 * Detail advantages to leveraging the cloud
 
