@@ -47,6 +47,6 @@ Link to this section can be found [here](https://youtu.be/1urMSdWwB6A).
 ## Link to the Course Series
 
 * Course 1: [Cloud Computing Fundamentals](https://www.cloudskillsboost.google/course_templates/153)
-* Course 2: [Infrastructure in Google Cloud]()
+* Course 2: [Infrastructure in Google Cloud](https://www.cloudskillsboost.google/course_templates/154)
 * Course 3: [Networking and Security in Google Cloud]()
 * Course 4: [Data, ML and AI in Google Cloud]()
