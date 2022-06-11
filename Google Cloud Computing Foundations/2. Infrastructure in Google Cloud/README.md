@@ -19,8 +19,10 @@ This course consists of first 3 out of the 10 modules in the series:
 
 ## Course Objectives
 
-* 
+* Implement a variety of structured and unstructured storage models.
+* Discuss the different application managed service options in the cloud.
+* Outline how security in the cloud is administered in GCP.
 
 ## Course Completion
 
-![completion]()
+![completion](https://media.discordapp.net/attachments/984655726406402088/985141276649340958/unknown.png?width=1249&height=700)
