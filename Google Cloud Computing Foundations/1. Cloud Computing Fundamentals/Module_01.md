@@ -1,6 +1,6 @@
 # So, What's The Cloud Anyway
 
-In this course, we will be able to discuss what the cloud is and why it's a technological and business game changer.
+In this module, we will be able to discuss what the cloud is and why it's a technological and business game changer.
 
 ## Learning Objectives
 

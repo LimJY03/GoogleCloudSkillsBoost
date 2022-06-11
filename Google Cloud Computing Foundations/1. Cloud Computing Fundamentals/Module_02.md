@@ -1,6 +1,6 @@
 # Start With a Solid Platform
 
-In this course, we will describe the different ways users can interact with Google Cloud Platform (GCP).
+In this module, we will describe the different ways users can interact with Google Cloud Platform (GCP).
 
 ## Learning Objectives
 

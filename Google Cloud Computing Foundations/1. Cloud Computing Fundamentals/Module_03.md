@@ -1,6 +1,6 @@
 # Use Google Cloud to Build Your Apps
 
-In this course, we will discover different compute options in GCP.
+In this module, we will discover different compute options in GCP.
 
 ## Learning Objectives
 
