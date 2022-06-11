@@ -9,9 +9,9 @@ This course consists of first 3 out of the 10 modules in the series:
 1. [ ] What's the Cloud?
 2. [ ] Start with a Solid Platform
 3. [ ] Use GCP to Build Your Apps
-4. [X] [Where Do I Store This Stuff?]()
-5. [X] [Rest API]()
-6. [X] [Cloud Security]()
+4. [X] [Where Do I Store This Stuff?](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/2.%20Infrastructure%20in%20Google%20Cloud/Module_04.md)
+5. [X] [Rest API](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/2.%20Infrastructure%20in%20Google%20Cloud/Module_05.md)
+6. [X] [Cloud Security](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/2.%20Infrastructure%20in%20Google%20Cloud/Module_06.md)
 7. [ ] How Networking in GCP Works
 8. [ ] Automating the Creation and Management of GCP Resources
 9. [ ] Big Data
