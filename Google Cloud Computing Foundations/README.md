@@ -22,8 +22,8 @@ There are a total of 10 modules in this series:
 4. [Where Do I Store This Stuff?](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/2.%20Infrastructure%20in%20Google%20Cloud/Module_04.md)
 5. [Rest API](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/2.%20Infrastructure%20in%20Google%20Cloud/Module_05.md)
 6. [Cloud Security](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/2.%20Infrastructure%20in%20Google%20Cloud/Module_06.md)
-7. [How Networking in GCP Works]()
-8. [Automating the Creation and Management of GCP Resources]()
+7. [How Networking in GCP Works](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/3.%20Networking%20and%20Security%20in%20Google%20Cloud/Module_07.md)
+8. [Automating the Creation and Management of GCP Resources](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/3.%20Networking%20and%20Security%20in%20Google%20Cloud/Module_08.md)
 9. [Big Data]()
 10. [Machine Learning]()
 

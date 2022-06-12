@@ -12,8 +12,8 @@ This course consists of the next 2 modules in the series:
 4. [ ] Where Do I Store This Stuff?
 5. [ ] Rest API
 6. [ ] Cloud Security
-7. [X] [How Networking in GCP Works]()
-8. [X] [Automating the Creation and Management of GCP Resources]()
+7. [X] [How Networking in GCP Works](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/3.%20Networking%20and%20Security%20in%20Google%20Cloud/Module_07.md)
+8. [X] [Automating the Creation and Management of GCP Resources](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/3.%20Networking%20and%20Security%20in%20Google%20Cloud/Module_08.md)
 9. [ ] Big Data
 10. [ ] Machine Learning
 
