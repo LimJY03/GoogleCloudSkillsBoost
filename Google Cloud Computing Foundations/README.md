@@ -1,6 +1,6 @@
 # Google Cloud Computing Foundation
 
-> T*he Google Cloud Computing Foundations courses are for individuals with little to no background or experience in cloud computing. They provide an overview of concepts central to cloud basics, big data, and machine learning, and where and how Google Cloud fits in.*
+> *The Google Cloud Computing Foundations courses are for individuals with little to no background or experience in cloud computing. They provide an overview of concepts central to cloud basics, big data, and machine learning, and where and how Google Cloud fits in.*
 > 
 > *By the end of the series of courses, learners will be able to articulate these concepts and demonstrate some hands-on skills.*
 >
@@ -48,5 +48,5 @@ Link to this section can be found [here](https://youtu.be/1urMSdWwB6A).
 
 * Course 1: [Cloud Computing Fundamentals](https://www.cloudskillsboost.google/course_templates/153)
 * Course 2: [Infrastructure in Google Cloud](https://www.cloudskillsboost.google/course_templates/154)
-* Course 3: [Networking and Security in Google Cloud]()
+* Course 3: [Networking and Security in Google Cloud](https://www.cloudskillsboost.google/course_templates/155)
 * Course 4: [Data, ML and AI in Google Cloud]()
