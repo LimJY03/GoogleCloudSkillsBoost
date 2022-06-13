@@ -1,4 +1,4 @@
-# Cloud Computing Fundamentals
+# Networking and Security in Google Cloud
 
 ![welcome_to_the_course](https://media.discordapp.net/attachments/984655726406402088/985370433857683506/unknown.png?width=1246&height=701)
 

@@ -1,4 +1,4 @@
-# Cloud Computing Fundamentals
+# Infrastructure in Google Cloud
 
 ![welcome_to_the_course](https://media.discordapp.net/attachments/984655726406402088/985002470692515870/unknown.png?width=1246&height=701)
 
