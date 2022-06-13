@@ -24,8 +24,8 @@ There are a total of 10 modules in this series:
 6. [Cloud Security](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/2.%20Infrastructure%20in%20Google%20Cloud/Module_06.md)
 7. [How Networking in GCP Works](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/3.%20Networking%20and%20Security%20in%20Google%20Cloud/Module_07.md)
 8. [Automating the Creation and Management of GCP Resources](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/3.%20Networking%20and%20Security%20in%20Google%20Cloud/Module_08.md)
-9. [Big Data]()
-10. [Machine Learning]()
+9. [Big Data](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/4.%20Data%2C%20ML%20and%20AI%20in%20Google%20Cloud/Module_09.md)
+10. [Machine Learning](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/4.%20Data%2C%20ML%20and%20AI%20in%20Google%20Cloud/Module_10.md)
 
 Link to this section can be found [here](https://youtu.be/5PM9YVomp_U).
 

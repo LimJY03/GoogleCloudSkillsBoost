@@ -14,8 +14,8 @@ This course consists of the next 2 modules in the series:
 6. [ ] Cloud Security
 7. [ ] How Networking in GCP Works
 8. [ ] Automating the Creation and Management of GCP Resources
-9. [X] [Big Data]()
-10. [X] [Machine Learning]()
+9. [X] [Big Data](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/4.%20Data%2C%20ML%20and%20AI%20in%20Google%20Cloud/Module_09.md)
+10. [X] [Machine Learning](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Computing%20Foundations/4.%20Data%2C%20ML%20and%20AI%20in%20Google%20Cloud/Module_10.md)
 
 ## Course Objectives
 
