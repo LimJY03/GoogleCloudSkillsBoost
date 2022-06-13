@@ -44,6 +44,10 @@ Link to this section can be found [here](https://youtu.be/5PM9YVomp_U).
 
 Link to this section can be found [here](https://youtu.be/1urMSdWwB6A).
 
+## Course Summary
+
+Link to this section can be found [here](https://youtu.be/wGgMerRHauU).
+
 ## Link to the Course Series
 
 * Course 1: [Cloud Computing Fundamentals](https://www.cloudskillsboost.google/course_templates/153)
