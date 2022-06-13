@@ -24,4 +24,4 @@ This course consists of the next 2 modules in the series:
 
 ## Course Completion
 
-![completion]()
+![completion](https://media.discordapp.net/attachments/984655726406402088/985870970961133598/unknown.png?width=1249&height=701)
