@@ -34,11 +34,11 @@ Link to this part can be found at [here](https://youtu.be/QBkMoeq3ZP4?t=22).
 
 There are 5 sections in this course:
 
-1. [Big Data and Machine Learning on Google Cloud]()
-2. [Data Engineering for Streaming Data]()
-3. [Big Data with BigQuery]()
-4. [Machine Learning Options on Google Cloud]()
-5. [The Machine Learning Workflow with Vertex AI]()
+1. [Big Data and Machine Learning on Google Cloud](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Big%20Data%20and%20ML%20Fundamentals/Section_01.md)
+2. [Data Engineering for Streaming Data](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Big%20Data%20and%20ML%20Fundamentals/Section_02.md)
+3. [Big Data with BigQuery](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Big%20Data%20and%20ML%20Fundamentals/Section_03.md)
+4. [Machine Learning Options on Google Cloud](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Big%20Data%20and%20ML%20Fundamentals/Section_04.md)
+5. [The Machine Learning Workflow with Vertex AI](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Google%20Cloud%20Big%20Data%20and%20ML%20Fundamentals/Section_05.md)
 
 Link to this part can be found at [here](https://youtu.be/QBkMoeq3ZP4?t=117).
 
