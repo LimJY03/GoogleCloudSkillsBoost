@@ -4,12 +4,12 @@ In this module, we will discover different compute options in GCP.
 
 ## Learning Objectives
 
-* Explore the role of compute options in the cloud
-* Describe the building and managing virtual machines
-* Explain building elastic applications using autoscaling
-* Explore PaaS options by levaraging App Engine
-* Discuss building event-driven services utilizing Cloud Functions
-* Explain containerizing and ochestraing applications with GKE
+* Explore the role of compute options in the cloud.
+* Describe the building and managing virtual machines.
+* Explain building elastic applications using autoscaling.
+* Explore PaaS options by levaraging App Engine.
+* Discuss building event-driven services utilizing Cloud Functions.
+* Explain containerizing and ochestraing applications with GKE.
 
 Link to this section can be found [here](https://youtu.be/oo5JAz8UPEk).
 
@@ -199,10 +199,10 @@ Note that the App Engine services are modular. The example above shows a single 
 
 App Engines provides multiple alternatives to store application data:
 
-* Caching through App Engine main cache
-* Cloud Storage for up to 5TB
-* Cloud Datastore for persistent, low-latency, memory-conserving data
-* Cloud SQL for relational database to run on persistent disk greater than 1TB
+* Caching through App Engine main cache.
+* Cloud Storage for up to 5TB.
+* Cloud Datastore for persistent, low-latency, memory-conserving data.
+* Cloud SQL for relational database to run on persistent disk greater than 1TB.
 * Cloud Bigtable for "no SQL" database for heavy read/write and analysis.
 
 App Engines also provides automatic scaling allows user to meet any demand. It also have load balancing which distributes compute resources in single or multiple regions close to users to meet high-availability requirements.
@@ -217,8 +217,8 @@ Link to this section can be found [here](https://youtu.be/DMKQ9gn2eOg).
 
 In this lab, we will:
 
-* Create a small App Engine application that displays a short message
-* Download, test and deploy an application
+* Create a small App Engine application that displays a short message.
+* Download, test and deploy an application.
 
 Link to this section can be found [here](https://youtu.be/13FC2ekvva8).
 <br>Link to the lab at [here](https://www.cloudskillsboost.google/course_sessions/1159661/labs/107474).
@@ -263,15 +263,15 @@ Link to this section can be found [here](https://youtu.be/i-on18WBdWA).
 
 In this lab, we will:
 
-* Create, deploy and test Cloud Functions
-* Read logs
+* Create, deploy and test Cloud Functions.
+* Read logs.
 
 Link to this section can be found [here](https://youtu.be/GhI4lwbysnE).
 <br>Link to the lab at [here](https://www.cloudskillsboost.google/course_sessions/1159661/labs/107477).
 
 # Containerizing and Orchestrating Apps with GKE
 
-![](https://media.discordapp.net/attachments/984655726406402088/984783392539308042/unknown.png)
+![iaas_paas_gke](https://media.discordapp.net/attachments/984655726406402088/984783392539308042/unknown.png)
 
 GKE is a hybrid that sits between IaaS and PaaS. It offers the managed infrastructure of IaaS with the developer orientation of PaaS.
 
@@ -297,7 +297,7 @@ PaaS provides hosted services and an environment that can scale workloads indepe
 
 As demands increases, the platform scales seamlessly and independently by workload and infrastructures.
 
-![](https://media.discordapp.net/attachments/984655726406402088/984786882196017172/unknown.png?width=1246&height=701)
+![platform_scale](https://media.discordapp.net/attachments/984655726406402088/984786882196017172/unknown.png?width=1246&height=701)
 
 ## Running Application in Containers
 

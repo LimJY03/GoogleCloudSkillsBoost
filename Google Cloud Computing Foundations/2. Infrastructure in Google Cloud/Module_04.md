@@ -4,13 +4,13 @@ In this module, we will discuss ways to implement a variety of structured and un
 
 ## Learning Objectives
 
-* Compare and contrast the different Cloud Storage options
-* Distinguish between structured and unstructured storage options in the cloud
-* Compare the role of the different Cloud Storage options
-* Explore the use case for Relational vs NoSQL storage options
-* Describe leveraging Cloud Storage as an unstructured storage option
-* Explain relational database options in the cloud
-* Describe the NoSQL options in GCP
+* Compare and contrast the different Cloud Storage options.
+* Distinguish between structured and unstructured storage options in the cloud.
+* Compare the role of the different Cloud Storage options.
+* Explore the use case for Relational vs NoSQL storage options.
+* Describe leveraging Cloud Storage as an unstructured storage option.
+* Explain relational database options in the cloud.
+* Describe the NoSQL options in GCP.
 
 Link to this section can be found [here](https://youtu.be/Ltr3xYyV2Q0).
 
@@ -24,8 +24,8 @@ GCP offers different storage options in the cloud, from object stores to databas
 
 Applications demand a storage solution. GCP provides scalable, reliable and easy-to-use managed services.
 
-* For relational databases, GCP offers Cloud SQL and Cloud Spanner
-* For non-relational databases, GCP offers Cloud Datastore and Cloud Bigtable
+* For relational databases, GCP offers Cloud SQL and Cloud Spanner.
+* For non-relational databases, GCP offers Cloud Datastore and Cloud Bigtable.
 * BigQuery is a highly scalable enterprise data warehouse. However, it falls outside of the storage solutions discussed in this module.
 
 ## Cloud Storage
@@ -61,7 +61,7 @@ About 80% of data in the world are unstructured. It is far more difficult to be 
 
 Organizations are mining unstructured data for insights that may provide them with a competitive advantage.
 
-![](https://media.discordapp.net/attachments/984655726406402088/985017240493641738/unknown.png?width=1246&height=701)
+![storage_comparison](https://media.discordapp.net/attachments/984655726406402088/985017240493641738/unknown.png?width=1246&height=701)
 
 The flowchart above shows the decision tree that determine the best storage type based on use cases.
 
@@ -192,7 +192,7 @@ Link to this section can be found [here](https://youtu.be/ZkVDbAScNvA).
 Google offers 2 NoSQL managed services options:
 
 * Cloud Datastore
-    * It is a fully-managed serverless NoSQL document store that supports asset transactions
+    * It is a fully-managed serverless NoSQL document store that supports asset transactions.
 * Cloud Bigtable
     * It is a petabyte scale, sparse, wide column NoSQL database that offers extremely low read-write latencies.
 

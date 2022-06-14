@@ -4,10 +4,10 @@ In this module, we will outline how security in the cloud is administered in GCP
 
 ## Learning Outcomes
 
-* Describe the shared security model of the cloud
-* Discuss Google's security responsibility versus a customer's responsibility
-* Explore the different encryption options with GCP
-* Identify best practices when configuring authentication and authorization using Cloud IAM
+* Describe the shared security model of the cloud.
+* Discuss Google's security responsibility versus a customer's responsibility.
+* Explore the different encryption options with GCP.
+* Identify best practices when configuring authentication and authorization using Cloud IAM.
 
 Link to this section can be found [here](https://youtu.be/aqqE06hOMtY).
 

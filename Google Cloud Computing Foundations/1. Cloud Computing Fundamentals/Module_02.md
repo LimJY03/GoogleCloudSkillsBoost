@@ -4,13 +4,13 @@ In this module, we will describe the different ways users can interact with Goog
 
 ## Learning Objectives
 
-* Discuss how to navigate the GCP environment with GCP console
-* Explain the purpose and purpose of creating GCP projects
-* Explain how billing works in GCP
-* Detail how to install and setup the Cloud Software Development Kit (Cloud SDK)
-* Describe the different use cases for using Cloud Shell and Cloud Shell Code Editor
-* Describe how APIs work and how to test Google APIs using Google APIs Explorer
-* Discuss how to manage services running on GCP directly from a mobile device
+* Discuss how to navigate the GCP environment with GCP console.
+* Explain the purpose and purpose of creating GCP projects.
+* Explain how billing works in GCP.
+* Detail how to install and setup the Cloud Software Development Kit (Cloud SDK).
+* Describe the different use cases for using Cloud Shell and Cloud Shell Code Editor.
+* Describe how APIs work and how to test Google APIs using Google APIs Explorer.
+* Discuss how to manage services running on GCP directly from a mobile device.
 
 Link to this section can be found [here](https://youtu.be/7UhUlYR80Yw).
 
@@ -29,7 +29,7 @@ There are four ways to interact with GCP:
 * Cloud Console Mobile App
     * For iOS and Android
 
-GCP Console is ac entralized console for all project data.
+GCP Console is a centralized console for all project data.
 
 * Execute common tasks using simple mouse clicks.
 * Create and manage projects.
@@ -85,7 +85,7 @@ Each project have three identifying attributes:
 
 2. Project Name
     * It needs to be unique.
-    * It s chosen by user.
+    * It is chosen by user.
     * It is mutable.
     * However, names from deleted projects cannot be reused.
 

@@ -4,10 +4,10 @@ In this module, we will discover a variety of managed big data services in the c
 
 ## Learning Outcomes
 
-* Discuss big data managed services in the cloud
-* Describe using Cloud Dataproc to run Spark, Hive, Pig and MapReduce as a managed service in the cloud
-* Explain building ETL pipelines as a managed service using Cloud Dataflow
-* Discuss BigQuery as a managed data warehouse and analytics engine
+* Discuss big data managed services in the cloud.
+* Describe using Cloud Dataproc to run Spark, Hive, Pig and MapReduce as a managed service in the cloud.
+* Explain building ETL pipelines as a managed service using Cloud Dataflow.
+* Discuss BigQuery as a managed data warehouse and analytics engine.
 
 Link to this section can be found [here](https://youtu.be/SSwTj_sQvqo).
 
@@ -207,7 +207,7 @@ Link to this section can be found [here](https://youtu.be/ObwQa2aNM0I).
 In this lab, we will:
 
 * Set up a `Python` development environment.
-* Get the CLoud Dataflow SDK for `Python`.
+* Get the Cloud Dataflow SDK for `Python`.
 * Run an example pipeline using the GCP Console.
 
 Link to this section can be found [here](https://youtu.be/5cRXzOlQhrE).

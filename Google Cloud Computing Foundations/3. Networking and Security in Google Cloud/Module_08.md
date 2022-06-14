@@ -4,10 +4,10 @@ In this module, we will identify cloud automation and management tools.
 
 ## Learning Outcomes
 
-* Introduce Infrastructure as Code (IaC)
-* Discuss Cloud Deployment Manager as an IaC option
-* Explain the role of monitoring, logging, tracing, debugging, and error reporting in the cloud
-* Describe using Stackdriver for monitoring, logging, tracing, debugging, and error reporting
+* Introduce Infrastructure as Code (IaC).
+* Discuss Cloud Deployment Manager as an IaC option.
+* Explain the role of monitoring, logging, tracing, debugging, and error reporting in the cloud.
+* Describe using Stackdriver for monitoring, logging, tracing, debugging, and error reporting.
 
 Link to this section can be found [here](https://youtu.be/M4R0H1_Mg2k).
 
@@ -97,7 +97,7 @@ It allows users to identify and understand application errors through real-time 
 
 ![error_reporting](https://media.discordapp.net/attachments/984655726406402088/985465937832591380/unknown.png?width=1246&height=701)
 
-Users can also use Google Client Libraries and REST APIs to send errors with Stackdriver Logging
+Users can also use Google Client Libraries and REST APIs to send errors with Stackdriver Logging.
 
 ## Stackdriver Trace
 

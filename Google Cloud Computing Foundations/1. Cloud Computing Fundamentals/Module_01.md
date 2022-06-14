@@ -4,10 +4,10 @@ In this module, we will be able to discuss what the cloud is and why it's a tech
 
 ## Learning Objectives
 
-* Discuss Cloud Computing
-* Compare and contrast physical, virtual, and cloud architectures
-* Define Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS)
-* Detail advantages to leveraging the cloud
+* Discuss Cloud computing.
+* Compare and contrast physical, virtual, and cloud architectures.
+* Define Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
+* Detail advantages to leveraging the cloud.
 
 Link to this section can be found [here](https://youtu.be/UBn_xsmcRmo).
 
@@ -15,7 +15,7 @@ Link to this section can be found [here](https://youtu.be/UBn_xsmcRmo).
 
 # Cloud Computing
 
-Cloud computng has 5 characteristics:
+Cloud computing has 5 characteristics:
 
 * On-demand self-service
     * No human intervention needed to get resources.

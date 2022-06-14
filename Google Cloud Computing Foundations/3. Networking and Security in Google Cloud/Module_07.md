@@ -4,13 +4,13 @@ In this module, we will demonstrate how to build secure networks in the cloud.
 
 ## Learning Outcomes
 
-* Explore basic networking in the cloud
-* Discuss how to build virtual private clouds (VPCs)
-* Explain the use of public and private IP addresses in the cloud
-* Describe the Google Network
-* Explain the role of firewall rules and routes
-* Explore hybrid cloud networking options including virtual private networks (VPNs), interconnect, and direct peering
-* Differentiate between load balancing options in the cloud
+* Explore basic networking in the cloud.
+* Discuss how to build virtual private clouds (VPCs).
+* Explain the use of public and private IP addresses in the cloud.
+* Describe the Google Network.
+* Explain the role of firewall rules and routes.
+* Explore hybrid cloud networking options including virtual private networks (VPNs), interconnect, and direct peering.
+* Differentiate between load balancing options in the cloud.
 
 
 Link to this section can be found [here](https://youtu.be/vQSOTKRVhK8).
@@ -240,9 +240,9 @@ Link to this section can be found [here](https://youtu.be/WDhftB0qqXQ).
 In this lab, we will:
 
 * Create an NGINX web server.
-* Create tagged firewall rules
+* Create tagged firewall rules.
 * Create a service account with IAM roles.
-* Explore permissions for the Network Admin and Security Admin roles
+* Explore permissions for the Network Admin and Security Admin roles.
 
 Link to this section can be found [here](https://youtu.be/nGCSlph5mDQ).
 <br>Link to the lab at [here](https://www.cloudskillsboost.google/course_sessions/1164919/labs/107703).

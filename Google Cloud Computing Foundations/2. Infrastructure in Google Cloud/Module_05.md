@@ -4,11 +4,11 @@ In this module, we will discuss the different application managed service option
 
 ## Learning Objectives
 
-* Discuss the purpose of APIs
-* Explain the format of a REST API
-* Compare and contrast Cloud Endpoints and Apigee
-* Explore the use case for a manged messaging service
-* Discuss how Cloud Pub/Sub is used as a managed messaging service
+* Discuss the purpose of APIs.
+* Explain the format of a REST API.
+* Compare and contrast Cloud Endpoints and Apigee.
+* Explore the use case for a manged messaging service.
+* Discuss how Cloud Pub/Sub is used as a managed messaging service.
 
 Link to this section can be found [here](https://youtu.be/lD4KoJfp1KU).
 
@@ -130,7 +130,7 @@ Such complex application is difficult to manage with brittle point-to-point appl
 ## Use Cases of Managed Messaging Service
 
 * Balance Workloads in Network Clusters
-    * A large queue of tasks can be efficiently distributed among multiple workers, such as compute engine instances
+    * A large queue of tasks can be efficiently distributed among multiple workers, such as compute engine instances.
 * Implement Asynchronous Workflows
     * An order processing application can place an order on a topic from which it can be processed by one or more workers.
 * Distributing Event Notifications

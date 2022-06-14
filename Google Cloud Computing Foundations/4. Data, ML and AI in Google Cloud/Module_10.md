@@ -4,9 +4,9 @@ In this module, we will explain what Machine Learning is, the terminology used, 
 
 ## Learning Outcomes
 
-* Discuss Machine Learning in the cloud
-* Explore building bespoke Machine Learning models using AI Platform
-* Leverage Cloud AutoML to create custom Machine Learning models
+* Discuss Machine Learning in the cloud.
+* Explore building bespoke Machine Learning models using AI Platform.
+* Leverage Cloud AutoML to create custom Machine Learning models.
 * Apply a range of pre-trained Machine Learning models using Google's Machine Learning APIs.
 
 Link to this section can be found [here](https://youtu.be/HKkxbXZywUY).
