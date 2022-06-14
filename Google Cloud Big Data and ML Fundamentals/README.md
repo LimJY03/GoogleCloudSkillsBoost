@@ -50,6 +50,11 @@ Below are some reading list suggested by this course on Google Cloud.
 * [Learning Path: Data Engineerings and Smart Analytics](https://cloud.google.com/training/data-engineering-and-analytics)
 * [Learning Path: Artificial Intelligence and Machine Learning](https://cloud.google.com/training/machinelearning-ai)
 
+
+## Course Summary
+
+Link to this part can be found at [here](https://youtu.be/z9dohYNNHp8).
+
 ## Link to the Course
 
 * Course: [Google Cloud Big Data and Machine Learning Fundamentals](https://www.cloudskillsboost.google/course_templates/3)
