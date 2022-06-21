@@ -8,7 +8,7 @@
 
 ## Introduction to the Course
 
-In this course, we will learn to:
+In [this course](https://www.cloudskillsboost.google/course_templates/8), we will learn to:
 
 * Describe how to improve data quality.
 * Perform exploratory data analyitics.
@@ -19,9 +19,11 @@ In this course, we will learn to:
 
 There are 6 modules in this course:
 
-1. [Get To Know Your Data: Improve Data Through Exploratory Data Analysis]()
+1. [Get To Know Your Data: Improve Data Through Exploratory Data Analysis](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Launching%20into%20Machine%20Learning/Module_01.md)
 2. [Machine Learning In Practice]()
 3. [Training AutoML Models using Vertex AI]()
 4. [BigQuery Machine Learning: Develop ML Models Where Your Data Lives]()
 5. [Optimization]()
 6. [Generalization And Sampling]()
+
+Link to this section at [here](https://youtu.be/VY9X9l7EY2Q).
