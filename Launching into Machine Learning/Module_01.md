@@ -6,6 +6,8 @@ In this module, we will learn to:
 * Categorize missing data strategies.
 * Improve data quality.
 
+Link to this section can be found at [here](https://youtu.be/fatY66P1zyk).
+
 ---
 
 # Improve Data Quality
