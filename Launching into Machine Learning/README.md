@@ -23,7 +23,7 @@ There are 6 modules in this course:
 2. [Machine Learning In Practice](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Launching%20into%20Machine%20Learning/Module_02.md)
 3. [Training AutoML Models using Vertex AI](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Launching%20into%20Machine%20Learning/Module_03.md)
 4. [BigQuery Machine Learning: Develop ML Models Where Your Data Lives](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Launching%20into%20Machine%20Learning/Module_04.md)
-5. [Optimization]()
+5. [Optimization](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Launching%20into%20Machine%20Learning/Module_05.md)
 6. [Generalization And Sampling]()
 
 Link to this section at [here](https://youtu.be/VY9X9l7EY2Q).
