@@ -138,7 +138,10 @@ At that point:
     * Start overfitting
 * Any more regularization will:
     * Increase bias
-    * Start underfitting 
+    * Start underfitting
+
+> **Note**
+> <br>An example of underfitting is the intention to model a non-linear function with a linear model.
 
 As training continues, both the training error and the validation error should be decreasing. 
 
