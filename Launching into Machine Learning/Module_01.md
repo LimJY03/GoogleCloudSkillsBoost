@@ -157,6 +157,9 @@ Here are some commonly-used data plotting methods:
     * Normally used for univariate data.
 * Scatter Plot: the points are represented individually with a dot circle or other shapes.
     * Normally used to reveal any correlation that may be present between 2 variables.
+    * They are made from samples of large data sets rather than from the whole data set.
+        * Scatter plotting too much data is computationally infeasible. 
+        * Scatter plotting all data will become visually hard to interpret.
 * Heat Map: a graphical representation of data that uses a system of color coding to represent different values.
     * It is a quick and easy way to see which features may influence our target.
     * Normally used for multivariate data.
