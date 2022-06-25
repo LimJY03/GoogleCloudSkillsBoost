@@ -101,7 +101,7 @@ However, regularization is important in logistic regression because driving the 
 
 The sigmoid function becomes flatter and flatter in the graph shown above. This means that the derivative (dy/dx) is getting closer and closer to 0. 
 
-Since we use the derivative in back propagation to update the weights, it is important for the gradient not to become 0 or else trading will stop. This is called saturation, when all activations end up in these plateaus, which leads to a vanishing gradient problem and makes training difficult.
+Since we use the derivative in back propagation to update the weights, it is important for the gradient not to become 0 or else training will stop. This is called saturation, when all activations end up in these plateaus, which leads to a vanishing gradient problem and makes training difficult.
 
 ![regularization](https://media.discordapp.net/attachments/984655726406402088/989010613911040000/unknown.png)
 
