@@ -11,7 +11,7 @@
 In [this course](https://www.cloudskillsboost.google/course_templates/8), we will learn to:
 
 * Describe how to improve data quality.
-* Perform exploratory data analyitics.
+* Perform exploratory data analytics.
 * Build and train AutoML Models using Vertex AI.
 * Build and train AutoML Models using BigQuery ML.
 * Optimize and evaluate models using performance metrics.
