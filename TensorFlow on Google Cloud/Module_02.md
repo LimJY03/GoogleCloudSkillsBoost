@@ -298,7 +298,7 @@ Some preprocessing layers support multiple states that are computed based on the
 To set the layers state before training, we can either initialize them from a precomputed constant, or by adapting them on the data using the `adapt()` method.
 
 > **Note**
-> <br>The `adapt()` method takes either a nunmpy array or a `tf.data.Dataset` object.
+> <br>The `adapt()` method takes either a numpy array or a `tf.data.Dataset` object.
 
 Keras preprocessing provides 2 different options in applying data transformation:
 
@@ -348,9 +348,9 @@ Link to this section can be found at [here](https://youtu.be/jZ-EbMj_MsU).
 1. What are distinct ways to create a dataset?
 
 * [ ] A data source constructs a Dataset from data stored in memory or in one or more files.
-* [X] **A data source constructs a Dataset from data stored in memory or in one or more files and a data transformation constructs a dataset from one or more tf.data.Dataset objects.**
+* [X] **A data source constructs a Dataset from data stored in memory or in one or more files and a data transformation constructs a dataset from one or more `tf.data.Dataset` objects.**
 * [ ] None of the options are correct.
-* [ ] A data transformation constructs a dataset from one or more tf.data.Dataset objects.
+* [ ] A data transformation constructs a dataset from one or more `tf.data.Dataset` objects.
 
 2. Which of the following is not a part of Categorical features preprocessing?
 
@@ -366,7 +366,7 @@ Link to this section can be found at [here](https://youtu.be/jZ-EbMj_MsU).
 * [X] **All options are correct.**
 * [ ] Embedding is a handy adapter that allows a network to incorporate spores or categorical data.
 
-4. What is the use of tf.keras.layers.TextVectorization?
+4. What is the use of `tf.keras.layers.TextVectorization`?
 
 * [ ] It performs feature-wise normalization of input features.
 * [X] **It turns raw strings into an encoded representation that can be read by an Embedding layer or Dense layer.**
@@ -380,7 +380,7 @@ Link to this section can be found at [here](https://youtu.be/jZ-EbMj_MsU).
 * [ ] StringLookup
 * [X] **Hashing**
 
-6. When should you avoid using the Keras function adapt()?
+6. When should you avoid using the Keras function `adapt()`?
 
 * [X] **When working with lookup layers with very large vocabularies.**
 * [ ] When using StringLookup while training on multiple machines via ParameterServerStrategy.
