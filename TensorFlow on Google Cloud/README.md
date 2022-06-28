@@ -17,7 +17,7 @@ In [this course](https://www.cloudskillsboost.google/course_templates/12), we wi
 There are 4 modules in this course:
 
 1. [Introduction To The TensorFlow Ecosystem](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/TensorFlow%20on%20Google%20Cloud/Module_01.md)
-2. [Design And Build An Input Data Pipeline]()
+2. [Design And Build An Input Data Pipeline](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/TensorFlow%20on%20Google%20Cloud/Module_02.md)
 3. [Building Neural Networks With The TensorFlow And Keras API]()
 4. [Training At Scale With Vertex API]()
 
