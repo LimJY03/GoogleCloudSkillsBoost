@@ -1,5 +1,7 @@
 # Building Neural Networks With The TensorFlow And Keras API
 
+In this module, we will learn to: 
+
 * Describe activation functions, loss, and optimizers.
 * Build a DNN model using the Keras Sequential and Functional APIs.
 * Use Keras preprocessing layers.
@@ -307,7 +309,7 @@ The code below shows wide and deep model creation in Keras.
     outputs = layers.Dense(1, activation=None, name='prediction')(combined)
 
     # Finalize model
-    model = keras.Nodel(inputs=list(inputs.values()), outputs=outputs, name='wide_and_deep')
+    model = keras.Model(inputs=list(inputs.values()), outputs=outputs, name='wide_and_deep')
     model.compile(optimizer='adam', loss='mse', metrics=[rmse, 'mse'])
     ```
 
