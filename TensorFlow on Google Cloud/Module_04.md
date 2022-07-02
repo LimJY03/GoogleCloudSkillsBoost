@@ -40,7 +40,7 @@ The code below shows the example to test the code locally on Google Cloud.
 
 ```bash
 EVAL_DATA_PATH=./taxifare/tests/data/taxi-valid*
-TRAIN_DATA_OATH=./taxofare/tests/data/taxi-train*
+TRAIN_DATA_PATH=./taxifare/tests/data/taxi-train*
 OUTPUT_DIR=./taxifare-model
 
 test ${OUTPUT_DIR} && rm -rf ${OUTPUT_DIR}
