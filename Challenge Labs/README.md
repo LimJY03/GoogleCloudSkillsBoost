@@ -5,7 +5,7 @@ This folder stores all of my solutions for challenge labs from Google Cloud Skil
 * [GSP311](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Challenge%20Labs/GSP311.md) - Automate Interactions with Contact Center AI: Challenge Lab
   <br>![last_updated_19062022](https://img.shields.io/badge/last%20updated-19%20June%202022-red)
 * [GSP323](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Challenge%20Labs/GSP323.md) - Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab
-  <br>![last_updated_16062022](https://img.shields.io/badge/last%20updated-16%20June%202022-red)
+  <br>![last_updated_23072022](https://img.shields.io/badge/last%20updated-23%20July%202023-yellow)
 * [GSP324](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Challenge%20Labs/GSP324.md) - Explore Machine Learning Models with Explainable AI: Challenge Lab
   <br>![last_updated_15062022](https://img.shields.io/badge/last%20updated-15%20June%202022-red)
 * [GSP327](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Challenge%20Labs/GSP327.md) - Engineer Data in Google Cloud: Challenge Lab
