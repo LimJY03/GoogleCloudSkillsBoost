@@ -15,6 +15,6 @@ This folder stores all of my solutions for challenge labs from Google Cloud Skil
 * [GSP341](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Challenge%20Labs/GSP341.md) - Create ML Models with BigQuery ML: Challenge Lab
   <br>![last_updated_22072023](https://img.shields.io/badge/last%20updated-22%20July%202023-yellow)
 * [GSP346](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Challenge%20Labs/GSP346.md) - Exploring Data with Looker: Challenge Lab
-  <br>![last_updated_15062022](https://img.shields.io/badge/last%20updated-15%20June%202022-red)
+  <br>![last_updated_23072023](https://img.shields.io/badge/last%20updated-23%20July%202023-yellow)
 * [GSP354](https://github.com/LimJY03/GoogleCloudSkillsBoost/blob/main/Challenge%20Labs/GSP354.ipynb) - Building and Deploying Machine Learning Solutions with Vertex AI: Challenge Lab
   <br>![last_updated_07072022](https://img.shields.io/badge/last%20updated-07%20July%202022-red)
